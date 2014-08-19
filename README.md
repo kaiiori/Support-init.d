@@ -1,6 +1,0 @@
-Support-init.d
-==============
-
-Development
-
-
